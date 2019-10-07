@@ -4,6 +4,10 @@ public class prueba {
 	
 	System.out.println("Andrea Castrillo Juan");
 	
+	System.out.println("nací en Nistal");
+	
+	System.out.println("ahora vivo en León");
+
 	}
 
 }
