@@ -8,6 +8,8 @@ public class prueba {
 	
 	System.out.println("ahora vivo en León");
 
+	System.out.println("13/12/2000");
+
 	}
 
 }
